@@ -1,0 +1,11 @@
+title: Zenda Legal
+description: Privacy Policy, Terms of Service and Health Disclaimer for the Zenda app.
+url: https://usezenda.github.io
+baseurl: /legal
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+exclude:
+  - README.md
